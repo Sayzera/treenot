@@ -1776,10 +1776,10 @@
     {
       "id": "Q0F9FIebdDyJMB-5ivG_N",
       "type": "arrow",
-      "x": -180.26070138097896,
-      "y": 653.720014378969,
-      "width": 10.273681565235279,
-      "height": 65.71428571428567,
+      "x": -180.3365770564171,
+      "y": 653.7200143789689,
+      "width": 11.133657533715706,
+      "height": 62.85714285714289,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1795,11 +1795,11 @@
         "type": 2
       },
       "seed": 921484851,
-      "version": 670,
-      "versionNonce": 1155564138,
+      "version": 673,
+      "versionNonce": 1697991217,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788522942427,
+      "updated": 1788530086955,
       "link": null,
       "locked": false,
       "points": [
@@ -1808,8 +1808,8 @@
           0
         ],
         [
-          -10.273681565235279,
-          65.71428571428567
+          -11.133657533715706,
+          62.85714285714289
         ]
       ],
       "lastCommittedPoint": null,
@@ -1830,8 +1830,8 @@
     {
       "id": "D11U660TeQEQF89zdFeFM",
       "type": "text",
-      "x": -268.82387421483304,
-      "y": 730.862871521826,
+      "x": -270.2524456434045,
+      "y": 728.0057286646831,
       "width": 160.99986267089844,
       "height": 25,
       "angle": 0,
@@ -1847,8 +1847,8 @@
       "index": "ar",
       "roundness": null,
       "seed": 589988061,
-      "version": 311,
-      "versionNonce": 1848739766,
+      "version": 314,
+      "versionNonce": 265747537,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1864,7 +1864,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788522942188,
+      "updated": 1788530086954,
       "link": null,
       "locked": false,
       "text": "feature/#30755",
@@ -1880,10 +1880,10 @@
     {
       "id": "rRgQiNTo90jeM3KRIiGzp",
       "type": "arrow",
-      "x": -221.84558443823767,
-      "y": 765.1485858075406,
-      "width": 54.92374361333253,
-      "height": 33.53037295019567,
+      "x": -221.0041580499095,
+      "y": 762.2914429503977,
+      "width": 55.76517000166069,
+      "height": 36.38751580733856,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1899,11 +1899,11 @@
         "type": 2
       },
       "seed": 1769965171,
-      "version": 842,
-      "versionNonce": 536768490,
+      "version": 845,
+      "versionNonce": 2035211281,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788522942427,
+      "updated": 1788530086955,
       "link": null,
       "locked": false,
       "points": [
@@ -1912,8 +1912,8 @@
           0
         ],
         [
-          -54.92374361333253,
-          33.53037295019567
+          -55.76517000166069,
+          36.38751580733856
         ]
       ],
       "lastCommittedPoint": null,
@@ -1967,10 +1967,10 @@
     {
       "id": "86Z4lqGVcrFrFp8fU4XhU",
       "type": "arrow",
-      "x": -101.66872186783405,
-      "y": 744.4830093520112,
-      "width": 101.74100863836156,
-      "height": 43.99611184361572,
+      "x": -103.09729329640548,
+      "y": 742.0598660179702,
+      "width": 103.169580066933,
+      "height": 46.41925517765674,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1986,11 +1986,11 @@
         "type": 2
       },
       "seed": 1501877290,
-      "version": 81,
-      "versionNonce": 1268710762,
+      "version": 84,
+      "versionNonce": 1545286129,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788522942427,
+      "updated": 1788530086955,
       "link": null,
       "locked": false,
       "points": [
@@ -1999,8 +1999,8 @@
           0
         ],
         [
-          101.74100863836156,
-          43.99611184361572
+          103.169580066933,
+          46.41925517765674
         ]
       ],
       "lastCommittedPoint": null,
@@ -2018,7 +2018,7 @@
       "id": "tXSAE3qlg0QuUZYJfsbW5",
       "type": "text",
       "x": 22.07034269233543,
-      "y": 784.354485710288,
+      "y": 782.9259142817166,
       "width": 61.67994689941406,
       "height": 25,
       "angle": 0,
@@ -2034,16 +2034,20 @@
       "index": "aw",
       "roundness": null,
       "seed": 406994986,
-      "version": 40,
-      "versionNonce": 419819958,
+      "version": 42,
+      "versionNonce": 1680312785,
       "isDeleted": false,
       "boundElements": [
         {
           "id": "JGBAbil-RtIj6VgvM8oH-",
           "type": "arrow"
+        },
+        {
+          "id": "602p_D7IoPGAsG6uDHVlW",
+          "type": "arrow"
         }
       ],
-      "updated": 1788522942188,
+      "updated": 1788530094438,
       "link": null,
       "locked": false,
       "text": "30758",
@@ -2059,10 +2063,10 @@
     {
       "id": "JGBAbil-RtIj6VgvM8oH-",
       "type": "arrow",
-      "x": 31.486528752795508,
-      "y": 813.2269341076609,
-      "width": 34.16399897249393,
-      "height": 38.496597863163856,
+      "x": 31.88689177547958,
+      "y": 811.7983626790895,
+      "width": 34.564361995178004,
+      "height": 39.9251692917353,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -2078,11 +2082,11 @@
         "type": 2
       },
       "seed": 644084650,
-      "version": 81,
-      "versionNonce": 1517273130,
+      "version": 82,
+      "versionNonce": 1935773073,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788522942427,
+      "updated": 1788530086155,
       "link": null,
       "locked": false,
       "points": [
@@ -2091,8 +2095,8 @@
           0
         ],
         [
-          -34.16399897249393,
-          38.496597863163856
+          -34.564361995178004,
+          39.9251692917353
         ]
       ],
       "lastCommittedPoint": null,
@@ -2534,6 +2538,93 @@
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
+    },
+    {
+      "id": "602p_D7IoPGAsG6uDHVlW",
+      "type": "arrow",
+      "x": 71.77380952380918,
+      "y": 781.2380952380951,
+      "width": 65.71428571428578,
+      "height": 41.428571428571445,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b07",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1742025215,
+      "version": 25,
+      "versionNonce": 1258336241,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1788530094438,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          65.71428571428578,
+          -41.428571428571445
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "tXSAE3qlg0QuUZYJfsbW5",
+        "focus": -0.07186695110110437,
+        "gap": 1.6878190436215164
+      },
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "FxoRhrhrhUvwkzgmKShO0",
+      "type": "text",
+      "x": 148.9166666666663,
+      "y": 721.2380952380951,
+      "width": 393.45965576171875,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b08",
+      "roundness": null,
+      "seed": 296866815,
+      "version": 117,
+      "versionNonce": 33933951,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1788530205803,
+      "link": null,
+      "locked": false,
+      "text": "Planlama onay ve onay listesi i\u00E7erisindeki\ndialo\u011Fun scroll ile resize edilmesi.",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Planlama onay ve onay listesi i\u00E7erisindeki\ndialo\u011Fun scroll ile resize edilmesi.",
+      "autoResize": true,
+      "lineHeight": 1.25
     }
   ],
   "appState": {
