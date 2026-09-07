@@ -28765,10 +28765,10 @@
     {
       "id": "Uqzdzc4aT-c5gsmBrCf7y",
       "type": "text",
-      "x": 35984.08871302115,
-      "y": 6879.39861367667,
-      "width": 275.6597595214844,
-      "height": 25,
+      "x": 35989.80299873543,
+      "y": 6871.541470819527,
+      "width": 385.9237976074219,
+      "height": 35,
       "angle": 0,
       "strokeColor": "#2f9e44",
       "backgroundColor": "transparent",
@@ -28782,8 +28782,8 @@
       "index": "bEC",
       "roundness": null,
       "seed": 2093650290,
-      "version": 38,
-      "versionNonce": 1750209394,
+      "version": 61,
+      "versionNonce": 1852605397,
       "isDeleted": false,
       "boundElements": [
         {
@@ -28791,11 +28791,11 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788780628547,
+      "updated": 1788783724084,
       "link": null,
       "locked": false,
       "text": "Teklif De\u011Ferlendirme sekmesi",
-      "fontSize": 20,
+      "fontSize": 28,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
@@ -28807,10 +28807,10 @@
     {
       "id": "62DG36hJBJNzEL4BBdEy-",
       "type": "arrow",
-      "x": 36100.66859278189,
-      "y": 6911.89861367667,
-      "width": 0,
-      "height": 90,
+      "x": 36140.46771265588,
+      "y": 6914.041470819527,
+      "width": 39.799119873991,
+      "height": 87.85714285714312,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -28824,11 +28824,11 @@
       "index": "bED",
       "roundness": null,
       "seed": 1781706350,
-      "version": 31,
-      "versionNonce": 400300466,
+      "version": 52,
+      "versionNonce": 1601048571,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788780628547,
+      "updated": 1788783724085,
       "link": null,
       "locked": false,
       "points": [
@@ -28837,8 +28837,8 @@
           0
         ],
         [
-          0,
-          90
+          -39.799119873991,
+          87.85714285714312
         ]
       ],
       "lastCommittedPoint": null,
@@ -30087,6 +30087,36 @@
       "isDeleted": false,
       "boundElements": [],
       "updated": 1788782195611,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "cXCfoIqXdH_A6j4v7b3WZ",
+      "type": "rectangle",
+      "x": 35961.2380952381,
+      "y": 6859.083333333334,
+      "width": 448.57142857142776,
+      "height": 60,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bEr",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1574083605,
+      "version": 101,
+      "versionNonce": 819797749,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1788783728683,
       "link": null,
       "locked": false
     }
