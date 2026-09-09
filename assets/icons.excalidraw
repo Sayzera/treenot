@@ -276,8 +276,8 @@
     },
     {
       "type": "freedraw",
-      "version": 294,
-      "versionNonce": 459360722,
+      "version": 296,
+      "versionNonce": 1522862728,
       "isDeleted": false,
       "id": "w_cWYa5d7pbNfWsXIhAqq",
       "fillStyle": "hachure",
@@ -286,7 +286,7 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 238.82455424103364,
+      "x": 236.4245450857602,
       "y": 556.2868774100398,
       "strokeColor": "#5c940d",
       "backgroundColor": "#fa5252",
@@ -295,7 +295,7 @@
       "seed": 1767800654,
       "groupIds": [],
       "boundElements": [],
-      "updated": 1788765573137,
+      "updated": 1788937095842,
       "link": null,
       "locked": false,
       "points": [
