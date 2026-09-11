@@ -2,7 +2,246 @@
   "type": "excalidraw",
   "version": 2,
   "source": "https://treenotepad.com",
-  "elements": [],
+  "elements": [
+    {
+      "id": "_FMo9-ECdg-ovVJUj_AkA",
+      "type": "text",
+      "x": 340.3212890625,
+      "y": 718,
+      "width": 711.357421875,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 1022391902,
+      "version": 108,
+      "versionNonce": 1562230558,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "86_FwpVaN3SZjkH7NrP3W",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1789049127175,
+      "link": null,
+      "locked": false,
+      "text": "G\u00F6revlendirme sayfas\u0131nda d\u00FCzenle butonuna t\u0131kland\u0131\u011F\u0131nda \u0130dari veya Fonksiyonel\nY\u00F6neticideki ilk iki alan bo\u015F geliyor",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "G\u00F6revlendirme sayfas\u0131nda d\u00FCzenle butonuna t\u0131kland\u0131\u011F\u0131nda \u0130dari veya Fonksiyonel Y\u00F6neticideki ilk iki alan bo\u015F geliyor",
+      "autoResize": false,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "8ITdFGmjWcK2WkVtkoz7H",
+      "type": "text",
+      "x": 590,
+      "y": 504,
+      "width": 105.81988525390625,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": null,
+      "seed": 892650910,
+      "version": 43,
+      "versionNonce": 1282293058,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "ZpT5LUwV7_nL4eQ80DoWB",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1789049117785,
+      "link": null,
+      "locked": false,
+      "text": "Sayfa Linki",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Sayfa Linki",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "ZpT5LUwV7_nL4eQ80DoWB",
+      "type": "arrow",
+      "x": 634.5220497247,
+      "y": 536,
+      "width": 1.9631074140971805,
+      "height": 62,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a2",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 263606338,
+      "version": 64,
+      "versionNonce": 1507359234,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789049122059,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1.9631074140971805,
+          62
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "8ITdFGmjWcK2WkVtkoz7H",
+        "focus": 0.16839293157695945,
+        "gap": 7
+      },
+      "endBinding": {
+        "elementId": "pI1mRIWKcfK1LBE-6zYxf",
+        "focus": -0.003361915850241449,
+        "gap": 8.5
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "pI1mRIWKcfK1LBE-6zYxf",
+      "type": "text",
+      "x": 402.8102111816406,
+      "y": 606.5,
+      "width": 470.37957763671875,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a3",
+      "roundness": null,
+      "seed": 1733165314,
+      "version": 50,
+      "versionNonce": 1790129310,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "ZpT5LUwV7_nL4eQ80DoWB",
+          "type": "arrow"
+        },
+        {
+          "id": "86_FwpVaN3SZjkH7NrP3W",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1789049125036,
+      "link": null,
+      "locked": false,
+      "text": "personel-ve-idari-isler/tanimlamalar/gorevlendirme",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "personel-ve-idari-isler/tanimlamalar/gorevlendirme",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "86_FwpVaN3SZjkH7NrP3W",
+      "type": "arrow",
+      "x": 634.5425985903531,
+      "y": 637.9999999999999,
+      "width": 0.5445595561650407,
+      "height": 72.00000000000011,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a4",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1155723166,
+      "version": 91,
+      "versionNonce": 1469328222,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789049127176,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.5445595561650407,
+          72.00000000000011
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "pI1mRIWKcfK1LBE-6zYxf",
+        "focus": 0.013767068548705108,
+        "gap": 6.5
+      },
+      "endBinding": {
+        "elementId": "_FMo9-ECdg-ovVJUj_AkA",
+        "focus": -0.1700398402367672,
+        "gap": 8
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    }
+  ],
   "appState": {
     "gridSize": 20,
     "gridStep": 5,
