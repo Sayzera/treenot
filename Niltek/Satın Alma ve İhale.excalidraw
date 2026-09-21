@@ -48677,8 +48677,8 @@
     {
       "id": "v80E5BniK2J9I_iCpohb0",
       "type": "text",
-      "x": 35514.14025878905,
-      "y": 15333.126212708383,
+      "x": 35564.14025878905,
+      "y": 15513.126212708383,
       "width": 223.05984497070312,
       "height": 50,
       "angle": 0,
@@ -48694,11 +48694,11 @@
       "index": "bN3",
       "roundness": null,
       "seed": 1753419322,
-      "version": 390,
-      "versionNonce": 1704042278,
+      "version": 450,
+      "versionNonce": 1830989690,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1789972770543,
+      "updated": 1789972861012,
       "link": null,
       "locked": false,
       "text": "Task Numaras\u0131 : 30694\n",
@@ -48714,8 +48714,8 @@
     {
       "id": "KjaLOSB0pXqpxANh7GFBj",
       "type": "text",
-      "x": 35514.14025878905,
-      "y": 15380.973434930605,
+      "x": 35564.14025878905,
+      "y": 15560.973434930605,
       "width": 783.719482421875,
       "height": 50,
       "angle": 0,
@@ -48731,8 +48731,8 @@
       "index": "bN4",
       "roundness": null,
       "seed": 943273722,
-      "version": 397,
-      "versionNonce": 385010874,
+      "version": 445,
+      "versionNonce": 1657974842,
       "isDeleted": false,
       "boundElements": [
         {
@@ -48740,7 +48740,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1789972789324,
+      "updated": 1789972861012,
       "link": null,
       "locked": false,
       "text": "Task A\u00E7\u0131klamas\u0131 : TDF Dok\u00FCman\u0131n\u0131n Islak \u0130mza/E-\u0130mza ya g\u00F6nderimi\n",
@@ -48756,8 +48756,8 @@
     {
       "id": "qHYwD5UiPAeYLZleLTaPG",
       "type": "text",
-      "x": 35515.56883021763,
-      "y": 15268.850419057591,
+      "x": 35565.56883021763,
+      "y": 15448.850419057591,
       "width": 421.11981201171875,
       "height": 35,
       "angle": 0,
@@ -48773,11 +48773,11 @@
       "index": "bN5",
       "roundness": null,
       "seed": 682379194,
-      "version": 378,
-      "versionNonce": 1983491814,
+      "version": 438,
+      "versionNonce": 687565242,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1789972764865,
+      "updated": 1789972861012,
       "link": null,
       "locked": false,
       "text": "Ba\u015Flang\u0131\u00E7 Tarihi : 21/09/2026",
@@ -48791,58 +48791,12 @@
       "lineHeight": 1.25
     },
     {
-      "id": "dRyHaJgnQbJJQPJmhOPoi",
-      "type": "arrow",
-      "x": 36004.33781643676,
-      "y": 15275.724069726006,
-      "width": 175.2568793248065,
-      "height": 7.876713677519547,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "bN6",
-      "roundness": {
-        "type": 2
-      },
-      "seed": 1644118138,
-      "version": 245,
-      "versionNonce": 923366630,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1789972714518,
-      "link": null,
-      "locked": false,
-      "points": [
-        [
-          0,
-          0
-        ],
-        [
-          175.2568793248065,
-          -7.876713677519547
-        ]
-      ],
-      "lastCommittedPoint": null,
-      "startBinding": null,
-      "endBinding": null,
-      "startArrowhead": null,
-      "endArrowhead": "arrow",
-      "elbowed": false
-    },
-    {
       "id": "xQ-T5BraHklaM2II2l_AE",
       "type": "arrow",
-      "x": 35717.94764469193,
-      "y": 15444.55798097232,
+      "x": 35767.947644691936,
+      "y": 15624.55798097232,
       "width": 90.90261397265567,
-      "height": 91.58090791656832,
+      "height": 91.58090791657014,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -48858,11 +48812,11 @@
         "type": 2
       },
       "seed": 68410618,
-      "version": 137,
-      "versionNonce": 538795174,
+      "version": 310,
+      "versionNonce": 779846310,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1789972806006,
+      "updated": 1789972861166,
       "link": null,
       "locked": false,
       "points": [
@@ -48872,19 +48826,19 @@
         ],
         [
           -90.90261397265567,
-          91.58090791656832
+          91.58090791657014
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "KjaLOSB0pXqpxANh7GFBj",
-        "focus": 0.3606809266155854,
-        "gap": 13.584546041716749
+        "focus": 0.359401780986049,
+        "gap": 13.58454604171493
       },
       "endBinding": {
         "elementId": "9Cp4JDgQpQYadBMM-_-XZ",
-        "focus": 0.31694497895744367,
-        "gap": 15
+        "focus": 0.3178213217602698,
+        "gap": 14.999999999998181
       },
       "startArrowhead": null,
       "endArrowhead": "arrow",
@@ -48893,8 +48847,8 @@
     {
       "id": "9Cp4JDgQpQYadBMM-_-XZ",
       "type": "text",
-      "x": 35435.6111111111,
-      "y": 15551.138888888889,
+      "x": 35485.6111111111,
+      "y": 15731.138888888889,
       "width": 243.11984252929688,
       "height": 25,
       "angle": 0,
@@ -48910,8 +48864,8 @@
       "index": "bN8",
       "roundness": null,
       "seed": 447319802,
-      "version": 97,
-      "versionNonce": 1996847462,
+      "version": 159,
+      "versionNonce": 1013171002,
       "isDeleted": false,
       "boundElements": [
         {
@@ -48919,7 +48873,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1789972806005,
+      "updated": 1789972861012,
       "link": null,
       "locked": false,
       "text": "Dosya Ekle butonu kald\u0131r",
@@ -48935,10 +48889,10 @@
     {
       "id": "fPBpBmxSpl-o_oQNd-98t",
       "type": "arrow",
-      "x": 35791.8611111111,
-      "y": 15411.138888888889,
-      "width": 15,
-      "height": 181.25,
+      "x": 35841.05556443894,
+      "y": 15590.333342216723,
+      "width": 6.944533278343442,
+      "height": 189.30546672165838,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -48954,11 +48908,11 @@
         "type": 2
       },
       "seed": 255781670,
-      "version": 42,
-      "versionNonce": 1298819578,
+      "version": 127,
+      "versionNonce": 347695782,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1789972808700,
+      "updated": 1789973054679,
       "link": null,
       "locked": false,
       "points": [
@@ -48967,13 +48921,17 @@
           0
         ],
         [
-          15,
-          181.25
+          6.944533278343442,
+          189.30546672165838
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": null,
-      "endBinding": null,
+      "endBinding": {
+        "elementId": "I6Uhzfudd1aI_anuxpd1M",
+        "focus": -0.04361447882810526,
+        "gap": 2.7500799505069153
+      },
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
@@ -48981,8 +48939,8 @@
     {
       "id": "I6Uhzfudd1aI_anuxpd1M",
       "type": "text",
-      "x": 35748.1111111111,
-      "y": 15602.388888888889,
+      "x": 35798.1111111111,
+      "y": 15782.388888888889,
       "width": 105.5399169921875,
       "height": 25,
       "angle": 0,
@@ -48998,16 +48956,20 @@
       "index": "bNA",
       "roundness": null,
       "seed": 1189271846,
-      "version": 57,
-      "versionNonce": 657820518,
+      "version": 120,
+      "versionNonce": 344072314,
       "isDeleted": false,
       "boundElements": [
         {
           "id": "iXfjLV-b7XjlHGmISrklC",
           "type": "arrow"
+        },
+        {
+          "id": "fPBpBmxSpl-o_oQNd-98t",
+          "type": "arrow"
         }
       ],
-      "updated": 1789972832205,
+      "updated": 1789973024990,
       "link": null,
       "locked": false,
       "text": "Islak imza ",
@@ -49023,10 +48985,10 @@
     {
       "id": "iXfjLV-b7XjlHGmISrklC",
       "type": "arrow",
-      "x": 35801.00288310087,
-      "y": 15632.38888888889,
-      "width": 0.0028463908020057715,
-      "height": 108.75,
+      "x": 35851.00288310087,
+      "y": 15812.388888888889,
+      "width": 0.002846390794729814,
+      "height": 108.75000000000364,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -49042,11 +49004,11 @@
         "type": 2
       },
       "seed": 1713537082,
-      "version": 139,
-      "versionNonce": 1350842406,
+      "version": 325,
+      "versionNonce": 214667558,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1789972834949,
+      "updated": 1789972861166,
       "link": null,
       "locked": false,
       "points": [
@@ -49055,20 +49017,20 @@
           0
         ],
         [
-          0.0028463908020057715,
-          108.75
+          0.002846390794729814,
+          108.75000000000364
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "I6Uhzfudd1aI_anuxpd1M",
-        "focus": 0.0008031378296704309,
+        "focus": -0.002299692947058553,
         "gap": 5
       },
       "endBinding": {
         "elementId": "n--rFzsl7PRdOZDI2vKfq",
-        "focus": -0.02064265076167459,
-        "gap": 5
+        "focus": -0.020289709388459597,
+        "gap": 4.999999999996362
       },
       "startArrowhead": null,
       "endArrowhead": "arrow",
@@ -49077,8 +49039,8 @@
     {
       "id": "n--rFzsl7PRdOZDI2vKfq",
       "type": "text",
-      "x": 35693.1111111111,
-      "y": 15746.138888888889,
+      "x": 35743.1111111111,
+      "y": 15926.138888888889,
       "width": 220.2598419189453,
       "height": 50,
       "angle": 0,
@@ -49094,8 +49056,8 @@
       "index": "bNC",
       "roundness": null,
       "seed": 2124545574,
-      "version": 99,
-      "versionNonce": 637650150,
+      "version": 161,
+      "versionNonce": 638226362,
       "isDeleted": false,
       "boundElements": [
         {
@@ -49103,7 +49065,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1789972834949,
+      "updated": 1789972861012,
       "link": null,
       "locked": false,
       "text": "\u0130mzaya G\u00F6nder butonu\nKald\u0131r",
