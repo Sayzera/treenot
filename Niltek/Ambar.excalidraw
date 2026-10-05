@@ -2,7 +2,302 @@
   "type": "excalidraw",
   "version": 2,
   "source": "https://treenotepad.com",
-  "elements": [],
+  "elements": [
+    {
+      "id": "1LswB_8EwQCXXPHtqRVZT",
+      "type": "text",
+      "x": 212.996123162804,
+      "y": -95.78571428571377,
+      "width": 221.23985290527344,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 1207633909,
+      "version": 863,
+      "versionNonce": 889900091,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1791183311328,
+      "link": null,
+      "locked": false,
+      "text": "Task Numaras\u0131 : 31208\n",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Task Numaras\u0131 : 31208\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "f9uGKu7u1uGZRzYZP7tJO",
+      "type": "text",
+      "x": 214.996123162804,
+      "y": -47.93849206349478,
+      "width": 783.719482421875,
+      "height": 150,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": null,
+      "seed": 731922773,
+      "version": 855,
+      "versionNonce": 1677429979,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1791183311328,
+      "link": null,
+      "locked": false,
+      "text": "Task A\u00E7\u0131klamas\u0131 : Ambar Giri\u015F-\u00C7\u0131k\u0131\u015F Listesi Yeni Ekle Sayfalar\u0131n\u0131n Tasar\u0131m\u0131\nDe\u011Fi\u015Ftirlecek\n\n\n\n",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Task A\u00E7\u0131klamas\u0131 : Ambar Giri\u015F-\u00C7\u0131k\u0131\u015F Listesi Yeni Ekle Sayfalar\u0131n\u0131n Tasar\u0131m\u0131 De\u011Fi\u015Ftirlecek\n\n\n\n",
+      "autoResize": false,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "FJysIdODC2jLuWjZaV1JH",
+      "type": "text",
+      "x": 216.42469459138374,
+      "y": -160.06150793650522,
+      "width": 419.8038024902344,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#9c36b5",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a2",
+      "roundness": null,
+      "seed": 1293373109,
+      "version": 857,
+      "versionNonce": 1145780603,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1791183311328,
+      "link": null,
+      "locked": false,
+      "text": "Ba\u015Flang\u0131\u00E7 Tarihi : 05/10/2026",
+      "fontSize": 28,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Ba\u015Flang\u0131\u00E7 Tarihi : 05/10/2026",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "type": "freedraw",
+      "version": 1157,
+      "versionNonce": 352710645,
+      "isDeleted": false,
+      "id": "tKqzcvs1zSCXdQVdO6PYi",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1139.3343987455955,
+      "y": -63.30316538907027,
+      "strokeColor": "#5c940d",
+      "backgroundColor": "#fa5252",
+      "width": 30.715204837834143,
+      "height": 31.353057254880973,
+      "seed": 325117301,
+      "groupIds": [],
+      "boundElements": [],
+      "updated": 1791183305695,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          -81.05026906027206
+        ],
+        [
+          0,
+          -81.07782639430073
+        ],
+        [
+          0.2968087143919746,
+          -81.03828761069437
+        ],
+        [
+          0.6243242015560259,
+          -80.86376094868194
+        ],
+        [
+          2.7477291589922066,
+          -79.66801228082917
+        ],
+        [
+          6.054574544408878,
+          -76.85196912825191
+        ],
+        [
+          9.024172433441898,
+          -73.99678969389007
+        ],
+        [
+          11.351422580378834,
+          -71.58931397191178
+        ],
+        [
+          12.161638698110025,
+          -70.39715973893232
+        ],
+        [
+          12.570137150079084,
+          -69.78610581047047
+        ],
+        [
+          12.694545253495544,
+          -69.59041504103998
+        ],
+        [
+          12.694545253495544,
+          -69.47379247831469
+        ],
+        [
+          12.694545253495544,
+          -69.50134981234336
+        ],
+        [
+          12.642828583563636,
+          -69.5564644804007
+        ],
+        [
+          12.591111913631643,
+          -69.61157914845806
+        ],
+        [
+          12.487678573767823,
+          -69.63913648248673
+        ],
+        [
+          12.384245233903922,
+          -69.6666938165154
+        ],
+        [
+          12.384245233903922,
+          -69.78451452419844
+        ],
+        [
+          12.3250451056191,
+          -69.97262328256807
+        ],
+        [
+          12.258326385374017,
+          -70.2925279862922
+        ],
+        [
+          12.258326385374017,
+          -70.92155408912058
+        ],
+        [
+          12.258326385374017,
+          -73.57384452379783
+        ],
+        [
+          13.198993586975602,
+          -78.55134118018911
+        ],
+        [
+          14.729483787773724,
+          -82.42773325988387
+        ],
+        [
+          18.324178817723126,
+          -88.69843082752888
+        ],
+        [
+          22.899979831265796,
+          -94.76064181201475
+        ],
+        [
+          25.083322722739954,
+          -97.03312497533321
+        ],
+        [
+          28.031910714613147,
+          -99.52247237600774
+        ],
+        [
+          29.52494849003937,
+          -100.33561030051067
+        ],
+        [
+          30.37939781934956,
+          -100.70504144932505
+        ],
+        [
+          30.664225973655324,
+          -100.799292399167
+        ],
+        [
+          30.715204837834143,
+          -100.82684973319567
+        ],
+        [
+          30.66348816790224,
+          -100.82684973319567
+        ],
+        [
+          30.560054828038417,
+          -100.82684973319567
+        ],
+        [
+          30.508338158106426,
+          -100.79969490098875
+        ],
+        [
+          30.508338158106426,
+          -100.79969490098875
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "simulatePressure": true,
+      "pressures": [],
+      "index": "a4",
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "strokeOptions": {
+        "variability": "variable",
+        "streamline": 0.5
+      }
+    }
+  ],
   "appState": {
     "gridSize": 20,
     "gridStep": 5,
