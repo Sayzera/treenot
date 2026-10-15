@@ -51944,16 +51944,11 @@
       "index": "bOI",
       "roundness": null,
       "seed": 2059782364,
-      "version": 415,
-      "versionNonce": 942652297,
+      "version": 416,
+      "versionNonce": 520142078,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "NJYRsiqAhHmjmUa8-UpT0",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1792051001362,
+      "boundElements": [],
+      "updated": 1792051153038,
       "link": null,
       "locked": false,
       "text": "Verilerin tamam\u0131n\u0131n gelmesi sa\u011Fland\u0131 bu k\u0131sma bir pagination eklenmi\u015F client size onu kald\u0131rd\u0131m :)",
@@ -53594,56 +53589,6 @@
       "lineHeight": 1.25
     },
     {
-      "id": "NJYRsiqAhHmjmUa8-UpT0",
-      "type": "arrow",
-      "x": 40241.00987415646,
-      "y": 15637.755379218,
-      "width": 1.428571428565192,
-      "height": 111.42857142857065,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "bOo",
-      "roundness": {
-        "type": 2
-      },
-      "seed": 1334223785,
-      "version": 47,
-      "versionNonce": 81442985,
-      "isDeleted": false,
-      "boundElements": null,
-      "updated": 1792051001362,
-      "link": null,
-      "locked": false,
-      "points": [
-        [
-          0,
-          0
-        ],
-        [
-          1.428571428565192,
-          111.42857142857065
-        ]
-      ],
-      "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "nn8o2x_QVn1CE_61v7MuW",
-        "focus": 0.4014417258852979,
-        "gap": 1.8839171205399907
-      },
-      "endBinding": null,
-      "startArrowhead": null,
-      "endArrowhead": "arrow",
-      "elbowed": false
-    },
-    {
       "id": "1OtTGZh8at2fRrRaTFIqZ",
       "type": "text",
       "x": 40112.43844558502,
@@ -53663,16 +53608,11 @@
       "index": "bOp",
       "roundness": null,
       "seed": 781182919,
-      "version": 84,
-      "versionNonce": 2098349031,
+      "version": 85,
+      "versionNonce": 1206081086,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "jUXyBmtHmk2c-UKkBYSK-",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1792051059547,
+      "boundElements": [],
+      "updated": 1792051148791,
       "link": null,
       "locked": false,
       "text": "15/10/2026 Meda\u015F Revize",
@@ -53688,8 +53628,8 @@
     {
       "id": "GitW3yi3UXorj2SjivRnn",
       "type": "text",
-      "x": 39837.58021717403,
-      "y": 15914.541093503716,
+      "x": 39967.58021717403,
+      "y": 15872.541093503716,
       "width": 433.099609375,
       "height": 25,
       "angle": 0,
@@ -53705,16 +53645,11 @@
       "index": "bOs",
       "roundness": null,
       "seed": 1638269257,
-      "version": 290,
-      "versionNonce": 175251497,
+      "version": 400,
+      "versionNonce": 2144984702,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "jUXyBmtHmk2c-UKkBYSK-",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1792051064458,
+      "boundElements": [],
+      "updated": 1792051148791,
       "link": null,
       "locked": false,
       "text": "1. \u201C\u0130halenin Yap\u0131laca\u011F\u0131 Yer\u201D alan\u0131 kald\u0131r\u0131lmal\u0131d\u0131r.",
@@ -53730,8 +53665,8 @@
     {
       "id": "Sx7IwJ0ZtEBeW98LmlyJr",
       "type": "text",
-      "x": 39837.58021717403,
-      "y": 15952.500277177185,
+      "x": 39967.58021717403,
+      "y": 15910.500277177185,
       "width": 578.4595947265625,
       "height": 25,
       "angle": 0,
@@ -53747,11 +53682,11 @@
       "index": "bOt",
       "roundness": null,
       "seed": 1957450695,
-      "version": 291,
-      "versionNonce": 287631849,
+      "version": 398,
+      "versionNonce": 1945908514,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1792051064458,
+      "boundElements": [],
+      "updated": 1792051137760,
       "link": null,
       "locked": false,
       "text": "2. Tarih g\u00F6sterim format\u0131 \u201C10 Ekim 2026\u201D \u015Feklinde olmal\u0131d\u0131r.",
@@ -53767,8 +53702,8 @@
     {
       "id": "Tux1JfEWqQK1SfaW4k0XB",
       "type": "text",
-      "x": 39837.58021717403,
-      "y": 15990.459460850654,
+      "x": 39967.58021717403,
+      "y": 15948.459460850654,
       "width": 328.6197509765625,
       "height": 25,
       "angle": 0,
@@ -53784,11 +53719,11 @@
       "index": "bOu",
       "roundness": null,
       "seed": 969469993,
-      "version": 291,
-      "versionNonce": 916571337,
+      "version": 398,
+      "versionNonce": 1656570082,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1792051064458,
+      "boundElements": [],
+      "updated": 1792051137760,
       "link": null,
       "locked": false,
       "text": "3. \u201C\u0130hale T\u00FCr\u00FC\u201D alan\u0131 kald\u0131r\u0131lmal\u0131d\u0131r.",
@@ -53804,8 +53739,8 @@
     {
       "id": "IL8NAuJ-NanU3XlvKfvrU",
       "type": "text",
-      "x": 39837.58021717403,
-      "y": 16028.418644524123,
+      "x": 39967.58021717403,
+      "y": 15986.418644524123,
       "width": 294.17974853515625,
       "height": 25,
       "angle": 0,
@@ -53821,11 +53756,11 @@
       "index": "bOv",
       "roundness": null,
       "seed": 1469858535,
-      "version": 291,
-      "versionNonce": 293618601,
+      "version": 398,
+      "versionNonce": 887542946,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1792051064458,
+      "boundElements": [],
+      "updated": 1792051137760,
       "link": null,
       "locked": false,
       "text": "4. \u201CS\u0131ra No\u201D alan\u0131 kald\u0131r\u0131lmal\u0131d\u0131r.",
@@ -53841,8 +53776,8 @@
     {
       "id": "-N_vDryjPvIvdfLUJIcPS",
       "type": "text",
-      "x": 39837.58021717403,
-      "y": 16066.377828197592,
+      "x": 39967.58021717403,
+      "y": 16024.377828197592,
       "width": 796.8593139648438,
       "height": 75,
       "angle": 0,
@@ -53858,11 +53793,11 @@
       "index": "bOw",
       "roundness": null,
       "seed": 829096713,
-      "version": 289,
-      "versionNonce": 1307305609,
+      "version": 396,
+      "versionNonce": 2082992226,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1792051064458,
+      "boundElements": [],
+      "updated": 1792051137760,
       "link": null,
       "locked": false,
       "text": "5. Ba\u015Fvuru ekran\u0131nda yer alan \u201CGetir\u201D ifadesi kullan\u0131c\u0131 a\u00E7\u0131s\u0131ndan yeterince a\u00E7\u0131klay\u0131c\u0131\nde\u011Fildir. Butonun i\u015Flevini a\u00E7\u0131klayan daha anla\u015F\u0131l\u0131r bir ifade kullan\u0131lmal\u0131 veya\nbilgilendirme (info) a\u00E7\u0131klamas\u0131 eklenmelidir.",
@@ -53878,8 +53813,8 @@
     {
       "id": "xUW_3MJ2UzF5AuQ9fJkKL",
       "type": "text",
-      "x": 39837.58021717403,
-      "y": 16154.33701187106,
+      "x": 39967.58021717403,
+      "y": 16112.33701187106,
       "width": 755.29931640625,
       "height": 25,
       "angle": 0,
@@ -53895,11 +53830,11 @@
       "index": "bOx",
       "roundness": null,
       "seed": 822169095,
-      "version": 291,
-      "versionNonce": 111160681,
+      "version": 398,
+      "versionNonce": 1011848226,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1792051064458,
+      "boundElements": [],
+      "updated": 1792051137760,
       "link": null,
       "locked": false,
       "text": "6. \u0130hale Tarihi filtresi, serbest metin yerine tarih se\u00E7ilebilir formatta olmal\u0131d\u0131r.",
@@ -53915,8 +53850,8 @@
     {
       "id": "y-zNXqN_eWFUScjWP5NzS",
       "type": "text",
-      "x": 39837.58021717403,
-      "y": 16192.29619554453,
+      "x": 39967.58021717403,
+      "y": 16150.29619554453,
       "width": 480.71966552734375,
       "height": 25,
       "angle": 0,
@@ -53932,11 +53867,11 @@
       "index": "bOy",
       "roundness": null,
       "seed": 1426569705,
-      "version": 291,
-      "versionNonce": 1927845961,
+      "version": 398,
+      "versionNonce": 659341282,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1792051064458,
+      "boundElements": [],
+      "updated": 1792051137760,
       "link": null,
       "locked": false,
       "text": "7. \u0130hale Tarihi ve Saati tek alanda g\u00F6sterilmelidir.",
@@ -53952,8 +53887,8 @@
     {
       "id": "IswSNxH4gOblgSKjFZtEh",
       "type": "text",
-      "x": 39837.58021717403,
-      "y": 16230.255379217999,
+      "x": 39967.58021717403,
+      "y": 16188.255379217999,
       "width": 785.939453125,
       "height": 75,
       "angle": 0,
@@ -53969,11 +53904,11 @@
       "index": "bOz",
       "roundness": null,
       "seed": 735573287,
-      "version": 307,
-      "versionNonce": 1419814697,
+      "version": 414,
+      "versionNonce": 1496216482,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1792051064458,
+      "boundElements": [],
+      "updated": 1792051137760,
       "link": null,
       "locked": false,
       "text": "8. MEDA\u015E web sitesindeki mevcut ihale ekran\u0131 sayfan\u0131n tamam\u0131n\u0131 kaplamamaktad\u0131r.\nYeni ekranda da ayn\u0131 tasar\u0131m\u0131n m\u0131 kullan\u0131laca\u011F\u0131, yoksa ekran\u0131n tam geni\u015Flikte (full\nwidth) mi tasarlanaca\u011F\u0131 netle\u015Ftirilmelidir.",
@@ -53987,12 +53922,12 @@
       "lineHeight": 1.25
     },
     {
-      "id": "jUXyBmtHmk2c-UKkBYSK-",
-      "type": "arrow",
-      "x": 40245.08956658262,
-      "y": 15800.612522075144,
-      "width": 0.9032728348684032,
-      "height": 101.42857142857247,
+      "id": "aa_Y1sZuiAHrbol2KFMi-",
+      "type": "line",
+      "x": 40240.66066780726,
+      "y": 15794.485537948156,
+      "width": 2,
+      "height": 77,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -54003,16 +53938,16 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "bP0",
+      "index": "bP1",
       "roundness": {
         "type": 2
       },
-      "seed": 1865472169,
-      "version": 153,
-      "versionNonce": 1970156297,
+      "seed": 502716158,
+      "version": 42,
+      "versionNonce": 976219810,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1792051064458,
+      "updated": 1792051151143,
       "link": null,
       "locked": false,
       "points": [
@@ -54021,24 +53956,202 @@
           0
         ],
         [
-          -0.9032728348684032,
-          101.42857142857247
+          -2,
+          77
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "1OtTGZh8at2fRrRaTFIqZ",
-        "focus": -0.026717489354959906,
-        "gap": 10.714285714286234
-      },
-      "endBinding": {
-        "elementId": "GitW3yi3UXorj2SjivRnn",
-        "focus": 0.8761817884152828,
-        "gap": 12.5
-      },
+      "startBinding": null,
+      "endBinding": null,
       "startArrowhead": null,
-      "endArrowhead": "arrow",
-      "elbowed": false
+      "endArrowhead": null
+    },
+    {
+      "id": "AzMga1IF91Z8AMgWKc_zM",
+      "type": "line",
+      "x": 40238.66066780726,
+      "y": 15633.485537948156,
+      "width": 3,
+      "height": 117,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bP2",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1658328446,
+      "version": 49,
+      "versionNonce": 1831754686,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792051156705,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          117
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "tFuRF5lS7Nq0usq4bDe0o",
+      "type": "line",
+      "x": 40253.66066780726,
+      "y": 15640.485537948156,
+      "width": 31,
+      "height": 122,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bP5",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1080319330,
+      "version": 202,
+      "versionNonce": 1719432190,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792051188837,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -26,
+          17
+        ],
+        [
+          -5,
+          29
+        ],
+        [
+          -23,
+          49
+        ],
+        [
+          -3,
+          70
+        ],
+        [
+          -28,
+          80
+        ],
+        [
+          2,
+          97
+        ],
+        [
+          -29,
+          107
+        ],
+        [
+          -10,
+          122
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "OZQKcZJtagHQYedWSlYEt",
+      "type": "line",
+      "x": 40253.66066780726,
+      "y": 15794.485537948156,
+      "width": 41,
+      "height": 85,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bP6",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 843753122,
+      "version": 143,
+      "versionNonce": 1630289890,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792051201400,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -38,
+          15
+        ],
+        [
+          0,
+          26
+        ],
+        [
+          -34,
+          38
+        ],
+        [
+          3,
+          48
+        ],
+        [
+          -34,
+          65
+        ],
+        [
+          -2,
+          71
+        ],
+        [
+          -15,
+          85
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
     }
   ],
   "appState": {
